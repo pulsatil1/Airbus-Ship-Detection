@@ -15,7 +15,8 @@ Main files:
 ### Data exploration
 In this competition, we needed to locate ships in images. More than half images do not contain ships, and those that do may contain multiple ships. 
 File train_ship_segmentations_v2.csv contains id and encoded pixels with places of ships. So we need to decode these pixels into mask the same size as our images.
-Exsample of data:
+
+Example of data:
 ![image](https://github.com/pulsatil1/Airbus-Ship-Detection/assets/70263951/21d9134d-4aa0-4866-a82b-b6c2df8e7594)
 
 
