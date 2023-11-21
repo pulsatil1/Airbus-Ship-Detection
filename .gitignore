@@ -1,0 +1,9 @@
+# Temp files
+/.ipynb_checkpoints
+__pycache__
+
+# Data
+train_v2
+test_v2
+train_ship_segmentations_v2.csv
+
