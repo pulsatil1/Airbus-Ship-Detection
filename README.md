@@ -23,6 +23,7 @@ Example of data:
 We can reduce the images size to facilitate the learning process for the neural network. But the ships on images might be very small, so we can reduce images size only a little.
 Also, because of the dataset isn't balanced, we created a balanced train and validation datasets.
 
+Distribution of data by the number of ships:
 ![image](https://github.com/pulsatil1/Airbus-Ship-Detection/assets/70263951/a7d77d7b-540c-48a5-9a48-5f732d18b44b)
 
 
